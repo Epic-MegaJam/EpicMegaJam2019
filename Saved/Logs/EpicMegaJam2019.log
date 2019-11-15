@@ -542,3 +542,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.15-22.00.39:880][ 26]LogSlate: Took 0.009579 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2019.11.15-22.01.35:508][830]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={B4754EF3-4C14-3FD6-E7E3-F982F6865198}
 [2019.11.15-22.01.35:508][830]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={3B4B939C-4128-C949-E0B6-109A6141C0EF}
+[2019.11.15-22.18.46:920][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
